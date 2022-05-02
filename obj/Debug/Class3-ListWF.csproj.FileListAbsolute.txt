@@ -1,0 +1,11 @@
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class3-ListWF\bin\Debug\Class3-ListWF.exe.config
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class3-ListWF\bin\Debug\Class3-ListWF.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class3-ListWF\bin\Debug\Class3-ListWF.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class3-ListWF\obj\Debug\Class3-ListWF.csproj.AssemblyReference.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class3-ListWF\obj\Debug\Class3-ListWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class3-ListWF\obj\Debug\Class3_ListWF.Form1.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class3-ListWF\obj\Debug\Class3_ListWF.Properties.Resources.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class3-ListWF\obj\Debug\Class3-ListWF.csproj.GenerateResource.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class3-ListWF\obj\Debug\Class3-ListWF.csproj.CoreCompileInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class3-ListWF\obj\Debug\Class3-ListWF.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class3-ListWF\obj\Debug\Class3-ListWF.pdb
